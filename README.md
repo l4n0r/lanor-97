@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Age-27-blue?style=flat-square" /> &nbsp;
         <img src="https://img.shields.io/badge/Languages-Italian & English-blue?style=flat-square" /> <br />
         <br />
-        <!--
+        <!-- for now
             <a href="https://github.com/lanor-97" target="_blank">
                 <img alt="GitHub followers" src="https://img.shields.io/github/followers/lanor-97?label=Github%20followers&style=flat-square&color=brightgreen">
             </a> &nbsp;
@@ -25,6 +25,7 @@
             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lanor-97&layout=compact&langs_count=8&theme=react&count_private=true" />
     </a>
 </p>
+<br>
 
 <h3>🚀 About Me</h3>
 <ul>
@@ -38,12 +39,12 @@
         <p>Master's degree in Cyber Security @ UniMi (Milan, MI) [2023]</p>
     </li>
     <li>
-        <p>DevOps @ 2RCapital (Milan, MI) since October 2023</p>
+        <p>DevOps @ 2RCapital (Milan, MI) since [Oct 2023]</p>
     </li>
 </ul>
 <br>
 
-<h3>🌱 Currently studying & building in my free time</h3>
+<h3>🌱 Currently studying & building</h3>
 <ul>
     <li>
         <p>Consolidating my knowledge about Ethereum development with RareSkills course documentation</p>
@@ -52,7 +53,7 @@
         <p>Building a decentralized application on a L2 chain, featuring image NFTs generated with AI</p>
     </li>
     <li>
-        <p>Building a server-side application with Django about forecast</p>
+        <p>Building a server-side application with Django about forecast utilities</p>
     </li>
 </ul>
 <br>
