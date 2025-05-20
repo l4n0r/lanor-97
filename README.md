@@ -7,22 +7,22 @@
         <img src="https://img.shields.io/badge/Languages-Italian & English-blue?style=flat-square" /> <br />
         <br />
         <!-- for now
-            <a href="https://github.com/lanor-97" target="_blank">
-                <img alt="GitHub followers" src="https://img.shields.io/github/followers/lanor-97?label=Github%20followers&style=flat-square&color=brightgreen">
+            <a href="https://github.com/l4n0r" target="_blank">
+                <img alt="GitHub followers" src="https://img.shields.io/github/followers/l4n0r?label=Github%20followers&style=flat-square&color=brightgreen">
             </a> &nbsp;
-            <a href="https://github.com/lanor-97" target="_blank">
-                <img src="https://komarev.com/ghpvc/?username=lanor-97&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+            <a href="https://github.com/l4n0r" target="_blank">
+                <img src="https://komarev.com/ghpvc/?username=l4n0r&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
             </a>
         -->
 </h3>
 
 <h3 align="center">⚙️ &nbsp;My Stats:</h3>
 <p align="center">
-    <a href="https://github.com/lanor-97">
+    <a href="https://github.com/l4n0r">
         <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api?username=lanor-97&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=l4n0r&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lanor-97&layout=compact&langs_count=8&theme=react&count_private=true" />
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l4n0r&layout=compact&langs_count=8&theme=react&count_private=true" />
     </a>
 </p>
 <br>
